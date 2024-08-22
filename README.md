@@ -16,6 +16,7 @@ JavaScript: Lógica de la aplicación y manejo de la API.
 API de OpenWeatherMap: Fuente de datos meteorológicos.
 
 Uso
+
 Ingresa el nombre de una ciudad en el campo de búsqueda.
 Haz clic en el botón de búsqueda.
 La aplicación mostrará la información meteorológica actual para la ciudad ingresada.
